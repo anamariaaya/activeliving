@@ -230,11 +230,12 @@ a{	text-decoration:none; color:#fff;}
 	color:#000000;
 	padding-top:25px;
 	margin-left:15%;
+	margin-right:15%;
 }
 
 .buildingssec img{
 	width:80%;
-	height:400px;;
+	height:400px;
 	display:block;
 	margin-right:auto;
 	margin-left:auto;
