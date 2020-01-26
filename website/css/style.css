@@ -110,7 +110,6 @@ a{	text-decoration:none; color:#fff;}
 
 .intro{
 	background-color:#94c140;
-	margin-bottom:50px;
 }
 
 .intro h1{
@@ -441,6 +440,59 @@ a{	text-decoration:none; color:#fff;}
 }
 
 /*Fin Slideshow 2*/
+
+.ofertasprin{
+	display:inline-flex;
+	width:80%;
+	margin-left:10%;
+}
+
+.ofertas1{
+	background-color:#94c140;
+	width:100%;
+	margin-top:-18px;
+	padding-top:15px;
+	padding-bottom:15px;
+}
+
+.ofertas2{
+	background-color:#94c140;
+	width:100%;
+	margin-top:-18px;
+	padding-top:15px;
+	padding-bottom:15px;
+}
+
+.ofertas1 h5{
+	font-size:30px;
+	color:#ffffff;
+	font-weight:bold;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	margin-left:7%;
+}
+
+.ofertas1 p{
+	font-size:23px;
+	color:#ffffff;
+	font-weight:bold;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	margin-left:12%;
+}
+
+.ofertas2 p{
+	font-size:20px;
+	color:#94c140;
+	font-weight:bold;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	margin-left:7%;
+	width:190px;
+	background-color:#ffffff;
+	border:2px solid #ffffff;
+	border-radius:10px;
+	margin-top:10px;
+	margin-bottom:10px;
+	padding-left:2%;
+}
 
 .backformulario{
 	background-color: #343434;
