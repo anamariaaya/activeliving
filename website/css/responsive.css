@@ -322,10 +322,10 @@
 	height:280px;
 	}
 	.buildingssec h2{
-	font-size:22px;
+	font-size:28px;
 	}
 	.buildingssec h3{
-	font-size:18px;
+	font-size:24px;
 	}
 	.buildingssec{
 	margin-top:30px;
@@ -358,10 +358,13 @@
 	height:230px;
 	}
 	.buildingssec h2{
-	font-size:20px;
+	font-size:25px;
 	}
 	.buildingssec h3{
-	font-size:16px;
+	font-size:20px;
+	}
+	.buildingssec h4{
+	font-size:17px;
 	}
 	.buildingssec ul{
 	font-size:14px;
