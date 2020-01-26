@@ -58,7 +58,7 @@ a{	text-decoration:none; color:#fff;}
 
 .topnav{
 	display:flex;
-	background-color: rgba(250, 250, 250, 0.5);
+	background-color: rgba(250, 250, 250, 0.7);
 	width:100%;
 }
 
@@ -67,6 +67,7 @@ a{	text-decoration:none; color:#fff;}
 	float:right;
 	overflow:hidden;
 	width:80%;
+	margin-left:8%;
 }
 
 .menu ul{
@@ -75,16 +76,31 @@ a{	text-decoration:none; color:#fff;}
 }
 
 .menu ul li{
-	margin-left:19px;
+	margin-left:50px;
 	margin-top:52px;
 	color:#94c149;
 	font-size:19px;
 	font-weight:bold;
 	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-decoration:underline;
+}
+
+.specials{
+	color:#2e7fc0;
+	text-decoration:underline;
+	font-size:22px;
+}
+
+.specials:hover{
+	color:#94c149;
 }
 
 .menu ul li a{
 	color:#94C149;
+}
+
+.menu ul li a:hover{
+	color:#2e7fc0;
 }
 
 .menu i{
@@ -129,8 +145,8 @@ a{	text-decoration:none; color:#fff;}
 .divprin{
 	width:100%;
 	display:block; 
-	height:470px;
-	margin-bottom:80px;
+	height:350px;
+	margin-bottom:3s0px;
 }
 
 .divsec{
@@ -141,7 +157,7 @@ a{	text-decoration:none; color:#fff;}
 .neighborhoods{
 	width:300px; 
 	height:180px;
-	margin:25px auto 0px auto;
+	margin:60px auto 0px auto;
 	
 }
 
