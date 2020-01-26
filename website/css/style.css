@@ -110,6 +110,7 @@ a{	text-decoration:none; color:#fff;}
 
 .intro{
 	background-color:#94c140;
+	margin-bottom:50px;
 }
 
 .intro h1{
@@ -145,7 +146,7 @@ a{	text-decoration:none; color:#fff;}
 .divprin{
 	width:100%;
 	display:block; 
-	height:350px;
+	height:600px;
 	margin-bottom:3s0px;
 }
 
@@ -206,14 +207,14 @@ a{	text-decoration:none; color:#fff;}
 	font-size:30px;
 	font-weight:bold;
 	color:#94c140;
-	padding-top:25px;
+	padding-top:30px;
 }
 
 .buildingsprin{
 	width:100%;
 	display:inline-flex;
 	margin-top:80px;
-	margin-bottom:80px;
+	margin-bottom:30px;
 }
 
 .buildingssec{
@@ -224,13 +225,23 @@ a{	text-decoration:none; color:#fff;}
 .buildingssec h2{
 	text-align:center;
 	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-size:50px;
+	font-weight:bold;
+	color:#94c140;
+	padding-top:10px;
+	padding-bottom:50px;
+}
+
+.buildingssec h3{
+	text-align:center;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 	font-size:25px;
 	font-weight:bold;
 	color:#94c140;
 	padding-top:25px;
 }
 
-.buildingssec h3{
+.buildingssec h4{
 	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 	font-size:20px;
 	font-weight:bold;
